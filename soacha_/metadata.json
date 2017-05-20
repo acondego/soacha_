@@ -1,0 +1,14 @@
+{
+  "name": "Mapa de Soacha",
+  "version": "1.0.0",
+  "description": "Servicio OGC de Soacha",
+  "attribution": "OSM", 
+  "type": "baselayer",
+  "color": "#FFFFFF",
+  "format": "jpg",
+  "minzoom": "8",
+  "maxzoom": "15",
+  "bounds": "-74.31436180498649,4.087542205426045,-73.6037792132219,4.734357498207034",
+  "scale": "1",
+  "profile": "mercator"
+}
